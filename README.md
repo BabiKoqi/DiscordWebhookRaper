@@ -1,5 +1,2 @@
 # DiscordWebhookRaper
-# DiscordWebhookRaper
-# DiscordWebhook_Raper
-# DiscordWebhook_Raper
-# DiscordWebhook_Raper
+Rapes The Discord Webhook As Many Times As You Like
